@@ -1,0 +1,24 @@
+{
+  "name": "react-redux-firebase",
+  "version": "1.0.0",
+  "description": "Learning how can use Firebase on a React-Redux application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanaphonble/react-redux-firebase.git"
+  },
+  "keywords": [
+    "firebase",
+    "react",
+    "redux"
+  ],
+  "author": "Tanaphon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanaphonble/react-redux-firebase/issues"
+  },
+  "homepage": "https://github.com/tanaphonble/react-redux-firebase#readme"
+}
