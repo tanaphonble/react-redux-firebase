@@ -20,5 +20,18 @@
   "bugs": {
     "url": "https://github.com/tanaphonble/react-redux-firebase/issues"
   },
-  "homepage": "https://github.com/tanaphonble/react-redux-firebase#readme"
+  "homepage": "https://github.com/tanaphonble/react-redux-firebase#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-redux": "^4.4.6",
+    "react-router": "^3.0.0",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-env": "^1.1.4",
+    "babel-preset-react": "^6.16.0"
+  }
 }
